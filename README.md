@@ -56,19 +56,11 @@
 5. Select the LineageOS file and press "Open".
 6. Press "Choose Storage".
 7. Select your SD card.
-_If you're using Ethernet to connect the Pi, skip to step 10._
-8. Press the settings icon.
-9. Here, you will need to enable some options:
-  - Check "Configure wireless LAN".
-  - Set "SSID" to the name of the Wi-Fi network the Pi will connect to.
-  - Set "Password" to your Wi-Fi password.
-  - Under "Wireless LAN country", you will need to enter your two-digit country code. (Look for your country and the corresponding code in [this list](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements).
-  - Leave all the other options to their default and press "Save".
-10. Press "Write".  
+8. Press "Write".  
 **WARNING: All data previously on the SD card will be lost!**
-11. After it's done, insert SD card into Raspberry Pi. (The SD card automatically ejects after it's done)
+. After it's done, insert SD card into Raspberry Pi. (The SD card automatically ejects after it's done)
 
 ## Set up LineageOS
 
-1. Connect your Raspberry Pi with your monitor, plug it in, and wait for it to boot.
-2. 
+9. Connect your Raspberry Pi with your monitor, plug it in, and wait for it to boot.
+10. 
