@@ -27,19 +27,19 @@
 ## Software
   
   - Raspberry Pi Imager
-    - Go to [this link](https://www.raspberrypi.com/software/) (open link in new tab).
+    - Go to [this link](https://www.raspberrypi.com/software/).
     - Scroll down to "Install Raspberry Pi OS using Raspberry Pi Imager".
     - Download and install using the appropriate file for your operating system.
   
   - LineageOS 18.1
     - This is a custom build of LineageOS made by KonstaKang, optimised for larger screens and remotes.
-    1. Go to [this link](https://konstakang.com/devices/rpi4/LineageOS18-ATV/) (open link in new tab).
+    1. Go to [this link](https://konstakang.com/devices/rpi4/LineageOS18-ATV/).
     2. Scroll down and press the _first_ download link, not the second.  
     ![LineageOS Screenshot](https://user-images.githubusercontent.com/73562639/185755231-0e25899d-5963-4b30-894b-eeba4c0e4ebb.png)
   
   - GApps
     - This is a way to get Google apps for the LineageOS build.
-    1. Go to [this link](https://opengapps.org/) (open link in new tab).
+    1. Go to [this link](https://opengapps.org/).
     2. Under "Platform", choose ARM64.
     3. Under "Android", choose 11.0.
     4. Under "Variant", choose tvstock.  
