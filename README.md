@@ -59,9 +59,6 @@
 _If you're using Ethernet to connect the Pi, skip to step 10._
 8. Press the settings icon.
 9. Here, you will need to enable some options:
-  - Check the "Set hostname" option, and set it to whatever you want. (This will be used to connect to the Pi later on)
-  - Check the "Enable SSH" option.
-  - Under "Set username and password", set a username and password to connect to the Pi.
   - Check "Configure wireless LAN".
   - Set "SSID" to the name of the Wi-Fi network the Pi will connect to.
   - Set "Password" to your Wi-Fi password.
@@ -69,3 +66,9 @@ _If you're using Ethernet to connect the Pi, skip to step 10._
   - Leave all the other options to their default and press "Save".
 10. Press "Write".  
 **WARNING: All data previously on the SD card will be lost!**
+11. After it's done, insert SD card into Raspberry Pi. (The SD card automatically ejects after it's done)
+
+## Set up LineageOS
+
+1. Connect your Raspberry Pi with your monitor, plug it in, and wait for it to boot.
+2. 
