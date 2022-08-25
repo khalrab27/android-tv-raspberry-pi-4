@@ -1,5 +1,15 @@
 # Android TV on Raspberry Pi
 
+## Table of contents
+
+- [What you need](https://github.com/khalrab27/android-tv-raspberry-pi-4#what-you-need)
+- [Software](https://github.com/khalrab27/android-tv-raspberry-pi-4#software)
+- [Flash LineageOS onto SD card](https://github.com/khalrab27/android-tv-raspberry-pi-4#flash-lineageos-onto-sd-card)
+- [Set up LineageOS](https://github.com/khalrab27/android-tv-raspberry-pi-4#set-up-lineageos)
+- [Flash GApps to LineageOS](https://github.com/khalrab27/android-tv-raspberry-pi-4#flash-gapps-to-lineageos)
+- [Setting up Android TV](https://github.com/khalrab27/android-tv-raspberry-pi-4#setting-up-android-tv)
+- [Getting started using Android TV](https://github.com/khalrab27/android-tv-raspberry-pi-4#getting-started-using-android-tv)
+
 ## What you need
 
 - Raspberry Pi
